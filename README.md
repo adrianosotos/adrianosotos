@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adrianosotos&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adrianosotos&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="Anurag's github stats" />
   
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adrianosotos&layout=compact&theme=material-palenight" />
 
